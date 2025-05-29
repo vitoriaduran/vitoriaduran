@@ -1,16 +1,13 @@
-## Hi there 👋
+## Sobre mim
 
-<!--
-**vitoriaduran/vitoriaduran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👩‍💻 Explorando novas tecnologia e desenvolvendo um crescente enteresse por dados.
+- 🎓 Etudadante de ciencia da computação na faculdade cesar school.
+- 💻 Aprendendo mais sobre Python e SQL.
 
-Here are some ideas to get you started:
+  ## Minhas Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+
+
+
+
