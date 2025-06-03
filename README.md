@@ -4,7 +4,8 @@
 - 🎓 Etudadante de ciencia da computação na faculdade cesar school.
 - 💻 Aprendendo mais sobre Python e SQL.
 
-  ## Linguagens e Ferramentas
+
+## Linguagens e Ferramentas
   
 
   ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python)
@@ -16,10 +17,18 @@
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-  ## Onde me encontrar
+
+## Onde me encontrar
                         
-  [![LindIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitóriagabriellejaneiro/)
-  [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabyvitoria171205@gmail.com)](mailto:gabyvitoria171205@gmail.com)
+  [![LindIn](https://img.shields.io/badge/LinkedIn-00775B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitóriagabriellejaneiro/)
+  [![Gmail Badge](https://img.shields.io/badge/-gabyvitoria171205@gmail.com-00775B?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gabyvitoria171205@gmail.com)](mailto:gabyvitoria171205@gmail.com)
+
+
+<br/>
+
+<a href="https://github.com/vitoriaduran" title="Perfil da vitoria">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoriaduran&theme=dracula&show_icons=true" />
+</a>
  
 
   
